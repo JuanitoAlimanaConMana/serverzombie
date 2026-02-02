@@ -1,0 +1,49 @@
+[00:51:06] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[00:51:06] [INIT] Loaded plugins:
+[00:51:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:51:06] [INFO] Loaded script server_scripts:itemRecipeBlacklist.js in 0.004 s
+[00:51:06] [INFO] Loaded script server_scripts:cursedwalkingrecipechanges.js in 0.001 s
+[00:51:06] [INFO] Loaded script server_scripts:matt's_stims_server.js in 0.002 s
+[00:51:06] [INFO] Loaded 3/3 KubeJS server scripts in 0.028 s with 0 errors and 0 warnings
+[00:51:06] [INFO] Scripts loaded
+[00:51:06] [INFO] Initializing recipe event...
+[00:51:08] [INFO] [minecraft:block] Found 653 tags, added 2 objects, removed 0 objects
+[00:51:08] [INFO] [minecraft:item] Found 1040 tags, added 18 objects, removed 0 objects
+[00:51:10] [INFO] Processing recipes...
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_sword_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_onyx_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_netherite_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_pickaxe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_leggings[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_wooden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_shovel_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_shield[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_axe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_stone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_diamond_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_hoe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_bone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:rotten_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_chestplate[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:lavendite_iron_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:10] [WARN] Failed to parse recipe 'the_deep_void:void_vision_spyglass[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[00:51:11] [INFO] Found 9198 recipes in 413.2 ms
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_clean_block
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_clean_block_blasting
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_exposed_block
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_exposed_block_blasting
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_rusted_block
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_rusted_block_blasting
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_weathered_block
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: immersive_weathering:iron_ingot_from_weathered_block_blasting
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: the_deep_void:refined_bismuth
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: create:splashing/gravel
+[00:51:11] [INFO] itemRecipeBlacklist.js#47: create:splashing/red_sand
+[00:51:11] [INFO] cursedwalkingrecipechanges.js#4: CW Recipe Tweaks has fired.
+[00:51:11] [INFO] Posted recipe events in 366.7 ms
+[00:51:11] [WARN] Error parsing recipe minecraft:kjs/steriod_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:steriod_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:steriod_shot"},{"item":"minecraft:nether_wart"},{"item":"minecraft:slime_ball"},{"item":"immersive_weathering:tallow"},[]]}: Item array cannot be empty, at least one item must be defined
+[00:51:11] [INFO] Added 12 recipes, removed 16 recipes, modified 0 recipes, with 1 failed recipes in 101.0 ms
+[00:51:26] [INFO] Server resource reload complete!

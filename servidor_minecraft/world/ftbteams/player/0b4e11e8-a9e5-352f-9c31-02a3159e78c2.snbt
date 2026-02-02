@@ -1,0 +1,17 @@
+{
+	id: "0b4e11e8-a9e5-352f-9c31-02a3159e78c2"
+	type: "player"
+	player_name: "NamelessB"
+	ranks: {
+		0b4e11e8-a9e5-352f-9c31-02a3159e78c2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NamelessB"
+		"ftbteams:description": ""
+		"ftbteams:color": "#87FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "45ef11b1-7a6b-4b8e-9165-3fe37989bc93"
+	type: "party"
+	owner: "c60e6308-f38c-330f-8923-091ac315bfe0"
+	ranks: {
+		c60e6308-f38c-330f-8923-091ac315bfe0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CapDSGS's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1769792326047L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"CapDSGS\"}]}" }]
+	extra: { }
+}

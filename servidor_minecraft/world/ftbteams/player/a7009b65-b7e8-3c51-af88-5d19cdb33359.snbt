@@ -1,0 +1,17 @@
+{
+	id: "a7009b65-b7e8-3c51-af88-5d19cdb33359"
+	type: "player"
+	player_name: "XrafitalX"
+	ranks: {
+		a7009b65-b7e8-3c51-af88-5d19cdb33359: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "XrafitalX"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9CFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "e5ffcdb3-23b9-369c-9795-39736f654a63"
+	type: "player"
+	player_name: "r4six_vzl"
+	ranks: {
+		e5ffcdb3-23b9-369c-9795-39736f654a63: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "r4six_vzl"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF596F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
